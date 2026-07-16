@@ -42,9 +42,6 @@ I am an Electronics and Communication Engineering (ECE) undergraduate passionate
 
 ## Featured Projects
 - Asynchronous FIFO Design using Verilog HDL
-- Smart Home Automation System
-- Smart Energy Monitoring and Protection System
-- IoT-Based Smart Cattle Farm
 
 ## Goals
 - Build industry-level VLSI and ASIC Design projects
