@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I am Bhargavi Sri Mynam
 
-<!--
-**bhargavi-ec/bhargavi-ec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an Electronics and Communication Engineering (ECE) undergraduate passionate about VLSI Design, Digital IC Design, Physical Design, and Embedded Systems. I enjoy transforming theoretical concepts into practical projects and continuously expanding my knowledge in semiconductor technologies and emerging AI tools.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- VLSI Design
+- Digital IC Design
+- Physical Design (PD)
+- Low-Power VLSI
+- Computer Architecture
+- Embedded Systems
+- AI & Prompt Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+### Programming Languages
+- C
+- C++
+- Python
+- MATLAB
+
+### Hardware Description Language
+- Verilog HDL
+
+### EDA & Simulation Tools
+- Cadence
+- LTspice
+- Multisim
+- MATLAB
+
+### Other Tools
+- Git
+- GitHub
+
+## Certifications & Learning
+- Prompt Engineering
+- Physical Design Flow
+- Low-Power VLSI Techniques
+- Computer Architecture
+- GATE ECE Preparation
+
+## Featured Projects
+- Asynchronous FIFO Design using Verilog HDL
+- Smart Home Automation System
+- Smart Energy Monitoring and Protection System
+- IoT-Based Smart Cattle Farm
+
+## Goals
+- Build industry-level VLSI and ASIC Design projects
+- Strengthen Digital IC Design and Physical Design expertise
+- Contribute to open-source hardware and semiconductor projects
+- Pursue a career in the semiconductor industry
+
+## Connect with Me
+- LinkedIn:
+https://www.linkedin.com/in/mynam-bhargavi-sri-bb4948325
